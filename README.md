@@ -1,4 +1,4 @@
-##Chocolate-Company-Data-Analysis (Interactive Dashboard creation using PowerBi and MS Excel)
+## Chocolate-Company-Data-Analysis (Interactive Dashboard creation using PowerBi and MS Excel)
 
 ## Dataset used
 - <a href="https://github.com/Vikaspundir24/Chocolate-Company-Analysis/blob/main/sample-data-10mins.xlsx">Dataset</a>
